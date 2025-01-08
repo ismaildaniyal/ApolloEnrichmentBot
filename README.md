@@ -92,6 +92,6 @@ Ensure the following prerequisites are met:
 ---
 
 ## **Author**
-[M Ismail Daniyal](https://github.com/your-profile)
+[M Ismail Daniyal](https://github.com/ismaildaniyal)
 
 Feel free to reach out for any queries or suggestions at [ismailsarfraz9345l@gmail.com]!
